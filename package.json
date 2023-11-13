@@ -1,14 +1,14 @@
 {
-  "name": "jest",
+  "name": "tdd-practice",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["jest", "tdd"],
+  "author": "0xabdulkhalid",
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.23.3",
     "@babel/preset-env": "^7.23.3",
